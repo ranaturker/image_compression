@@ -1,2 +1,2 @@
 # image_compression
-image compression with LZW coding
+image compression with LZW coding / python
